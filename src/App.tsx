@@ -54,6 +54,7 @@ export default function App() {
           currentTab={currentTab}
           setCurrentTab={setCurrentTab}
         />
+        
 
         {/* Business Details Footer */}
         <Footer />
