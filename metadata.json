@@ -1,0 +1,8 @@
+{
+  "name": "Remix Radhe Fashion - Menswear Inventory \u0026 POS Ledger",
+  "description": "Professional Accounting, Inventory Management, and Point of Sale (POS) Billing application for Radhe Fashion (Male Fashion), Jehanabad.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
